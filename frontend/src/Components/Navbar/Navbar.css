@@ -39,13 +39,11 @@
 .nav-menu a {
     text-decoration: none;
     color: inherit;
-    transition: transform 0.2s ease-in;
+    transition: 0.2s ease-in;
 }
 
 .nav-menu a:hover {
-    size-adjust: 23px;
     transform: scale(1.1);
-    
 }
 
 .nav-menu hr {
@@ -61,6 +59,7 @@
     align-items: center;
     gap: 45px;
     cursor: pointer;
+    
 }
 
 .nav-login-cart button{
