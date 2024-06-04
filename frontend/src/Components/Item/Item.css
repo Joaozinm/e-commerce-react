@@ -6,9 +6,9 @@ item {
     margin: 6px 0;
 }
 
-.item-price {
-    display: flex;
+.item-prices {
     gap: 20px;
+    display: flex;
 }
 
 .item-price-new {
